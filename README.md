@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-ngc-jupyter/blob/main/nvidia_ngc_sdxl_jupyter.ipynb) | nvidia_ngc_sdxl_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-ngc-jupyter/blob/main/nvidia_ngc_mixtral_8x7b_jupyter.ipynb) | nvidia_ngc_mixtral_8x7b_jupyter
 
 ### 🧬 Code
 https://github.com/NVIDIA/NeMo
