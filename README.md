@@ -15,6 +15,7 @@ https://github.com/NVIDIA/NeMo
 ### 🌐 Page
 https://catalog.ngc.nvidia.com/ai-foundation-models  <br />
 https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/sdxl  <br />
+https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/mixtral-8x7b <br />
 
 ### 🖼 Output
 ![Screenshot 2024-02-24 152658](https://github.com/camenduru/nvidia-ngc-jupyter/assets/54370274/70367ef9-67ea-4fd6-b9eb-c421d6f63e1d)
